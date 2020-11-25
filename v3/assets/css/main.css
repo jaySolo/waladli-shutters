@@ -3526,10 +3526,7 @@ input, select, textarea {
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
-								background-color: #26409f;
-								-webkit-mask: url(images/bars.svg) no-repeat 50% 50%;
-								mask: url(images/bars.svg) no-repeat 50% 50%;
-								/* background-image: url("images/bars.svg"); */
+								background-image: url("images/bars.svg");
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
